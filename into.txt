@@ -1,0 +1,11 @@
+
+
+
+React คืออะไร ?
+        React เป็น JavaScript Library ที่ถูกสร้างโดย Facebook
+        React เป็นแค่ UI โดยสร้างมาจากพื้นฐานแนวความคิดแบบ MVC(Model View Controller) 
+    ซึ่งหมายถึงว่า React มีหน้าที่จัดการกับ Model หรือ View แต่สว่นใหญ่จะเป็น View
+        รองรับการเขียนด้วย JSX (JavaScript syntax extension)
+
+
+Web Official : https://reactjs.org/
